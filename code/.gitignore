@@ -1,0 +1,6 @@
+*.m~
+*octave-workspace
+
+# exclude content of logfiles folders
+*.tsv
+*.mat
